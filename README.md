@@ -12,5 +12,4 @@ Started out with this default template and was able to get through the module, b
 - Got familiar with mutating functions
 
 Screenshot below:
-![Screenshot](https://github.com/mikedinhnguyen/Good-Choice-app/blob/master/img/screenshot.png)
-
+<img src="https://github.com/mikedinhnguyen/Good-Choice-app/blob/master/img/screenshot.png" alt="Screenshot" height="700">
