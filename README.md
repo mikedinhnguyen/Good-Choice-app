@@ -11,5 +11,5 @@ Started out with this default template and was able to get through the module, b
 - Learned more about MVC Design Pattern and Swift Structures
 - Got familiar with mutating functions
 
-Screenshot below:
+Screenshot below:  
 <img src="https://github.com/mikedinhnguyen/Good-Choice-app/blob/master/img/screenshot.png" alt="Screenshot" height="700">
